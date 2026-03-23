@@ -1,0 +1,31 @@
+mae,rmse,mape,smape,wape,directional_acc,n,item_name
+0.0,0.0,0.0,0.0,0.0,1.0,25,Sticker | FalleN (Gold) | Krakow 2017
+0.0,0.0,0.0,0.0,0.0,1.0,43,★ Bayonet | Boreal Forest (Factory New)
+0.0,0.0,0.0,0.0,0.0,1.0,14,Sticker | Kvik (Gold) | Boston 2018
+0.0,0.0,0.0,0.0,0.0,1.0,6,Sticker | chopper (Gold) | London 2018
+0.0,0.0,0.0,0.0,0.0,1.0,668,Sticker | Gen.G | 2020 RMR
+0.0,0.0,0.0,0.0,0.0,1.0,669,Sticker | Heroic | 2020 RMR
+0.0,0.0,0.0,0.0,0.0,1.0,671,Sealed Graffiti | Tombstone (Cash Green)
+0.0,0.0,0.0,0.0,0.0,1.0,671,Sealed Graffiti | Double (Frog Green)
+0.0,0.0,0.0,0.0,0.0,1.0,671,Sealed Graffiti | GGEZ (Wire Blue)
+0.0,0.0,0.0,0.0,0.0,1.0,671,Sealed Graffiti | GTG (Battle Green)
+0.0,0.0,0.0,0.0,0.0,1.0,671,Sealed Graffiti | GTG (Jungle Green)
+0.0,0.0,0.0,0.0,0.0,1.0,671,Sealed Graffiti | Jump Shot (Tiger Orange)
+0.0,0.0,0.0,0.0,0.0,1.0,671,Sealed Graffiti | Lambda (Wire Blue)
+0.0,0.0,0.0,0.0,0.0,1.0,29,Sticker | gade (Gold) | London 2018
+0.0,0.0,0.0,0.0,0.0,1.0,8,Sticker | REZ (Gold) | London 2018
+0.0,0.0,0.0,0.0,0.0,1.0,7,Souvenir FAMAS | Cyanospatter (Well-Worn)
+0.0,0.0,0.0,0.0,0.0,1.0,671,Sealed Graffiti | Rage Mode (Tracer Yellow)
+0.0,0.0,0.0,0.0,0.0,1.0,671,Sealed Graffiti | Sheriff (Blood Red)
+0.0,0.0,0.0,0.0,0.0,1.0,671,Sealed Graffiti | Popdog (Monarch Blue)
+0.0,0.0,0.0,0.0,0.0,1.0,671,Sealed Graffiti | Sheriff (Desert Amber)
+0.0,0.0,0.0,0.0,0.0,1.0,669,Sealed Graffiti | X-Knives (Blood Red)
+0.0,0.0,0.0,0.0,0.0,1.0,671,Sealed Graffiti | Toasted (War Pig Pink)
+0.0,0.0,0.0,0.0,0.0,1.0,671,Sealed Graffiti | Eat It (Cash Green)
+0.0,0.0,0.0,0.0,0.0,1.0,671,Sealed Graffiti | Double (Monster Purple)
+0.0,0.0,0.0,0.0,0.0,1.0,671,UMP-45 | Mudder (Field-Tested)
+1.1600697726695512e-15,8.120488408686859e-15,3.121655919136621e-18,3.1216559191366216e-18,2.800185935193191e-18,0.9583333333333334,49,★ StatTrak™ Ursus Knife | Marble Fade (Minimal Wear)
+2.2737367544323207e-14,5.084229945850415e-14,3.8190635231031734e-17,3.8190635231031734e-17,3.7705171294696755e-17,0.9795918367346939,50,★ Skeleton Knife | Night Stripe (Factory New)
+3.427719821162254e-05,0.0002784361484576049,0.0011360363397079126,0.001101955627527201,0.0011420626644817876,0.9731343283582089,671,Sealed Graffiti | Tombstone (Violent Violet)
+4.093816631129885e-05,0.0003739947435864251,0.0013437320474514096,0.0012925306788631233,0.0013636557337461585,0.9790732436472347,670,Sticker | nexa | Stockholm 2021
+8.249946774536742e-05,0.0004649014930258938,0.0027154323758494933,0.002631293608793805,0.0027468437878797967,0.9507462686567164,671,Sealed Graffiti | Popdog (Bazooka Pink)

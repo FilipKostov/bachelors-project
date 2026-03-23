@@ -1,0 +1,3 @@
+split,name,mae,rmse,mape,smape,wape,directional_acc,n,baseline1_mae,baseline1_rmse,mae_improve_vs_baseline1,rmse_improve_vs_baseline1,baseline2_mae,baseline2_rmse,mae_improve_vs_baseline2,rmse_improve_vs_baseline2
+test,ensemble_test,5.995314552540619,30.913847882678333,3.891425004210368,0.4700338235376866,0.13938573641445107,0.8760872144493425,547846,,,,,,,,
+val,ensemble_val,5.040880223333674,25.099246564191745,2.1122155155062803,0.3720956968941539,0.11841859920848206,0.905433394979439,495842,,,,,,,,

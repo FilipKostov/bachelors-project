@@ -1,0 +1,31 @@
+mae,rmse,mape,smape,wape,directional_acc,n,item_name
+0.0,0.0,0.0,0.0,0.0,1.0,28,Sticker | coldzera (Gold) | Boston 2018
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | Take Flight (Monster Purple)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sticker | Gen.G | 2020 RMR
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sticker | Heroic | 2020 RMR
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | Sheriff (Blood Red)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | X-Knives (Blood Red)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | Toasted (War Pig Pink)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | GGEZ (Wire Blue)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | Eat It (Cash Green)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | Double (Monster Purple)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | King Me (Princess Pink)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | Rage Mode (Tracer Yellow)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | Popdog (Monarch Blue)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | QQ (Blood Red)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | Popdog (Jungle Green)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | Popdog (Bazooka Pink)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | Double (Frog Green)
+0.0,0.0,0.0,0.0,0.0,1.0,672,UMP-45 | Mudder (Field-Tested)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | Cocky (War Pig Pink)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | Lambda (Wire Blue)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | Jump Shot (Tiger Orange)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | GTG (Jungle Green)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | GTG (Battle Green)
+1.3374922084896003e-14,2.75731082452163e-14,3.0275210818320517e-17,3.0275210818320517e-17,3.0275210818320517e-17,0.9375,17,★ Bayonet | Boreal Forest (Factory New)
+8.928571428570248e-06,5.7798113836614226e-05,0.000295787399888877,0.0002957753554631244,0.0002975747656598327,0.9880774962742176,672,Sealed Graffiti | Tombstone (Cash Green)
+1.4880952380951827e-05,0.00010071416509858843,0.0004905245173594085,0.0004904612766094021,0.0004959087527894682,0.9880774962742176,672,Sealed Graffiti | Tombstone (Violent Violet)
+1.7857142857141364e-05,0.00011506959063970062,0.0005880706161050014,0.000587977566258464,0.0005950609937518097,0.9821162444113264,672,Sticker | nexa | Stockholm 2021
+9.821428571428539e-05,0.0006804485315449138,0.0030515138154026946,0.003035320088300211,0.003268459367107402,0.9940387481371088,672,Sealed Graffiti | Sheriff (Desert Amber)
+0.00013562925170067778,0.0005283507537142633,0.004375784168799134,0.00436946959795774,0.004510459600279877,0.940387481371088,672,Nova | Predator (Minimal Wear)
+0.00013690476190476012,0.0009239813291396211,0.004172431873992031,0.004134842524252641,0.004553103038701316,0.9821162444113264,672,Sealed Graffiti | Cocky (Tracer Yellow)

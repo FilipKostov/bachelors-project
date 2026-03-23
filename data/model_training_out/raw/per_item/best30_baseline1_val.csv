@@ -1,0 +1,31 @@
+mae,rmse,mape,smape,wape,directional_acc,n,item_name
+0.0,0.0,0.0,0.0,0.0,1.0,672,UMP-45 | Mudder (Field-Tested)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sticker | Gen.G | 2020 RMR
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | Sheriff (Blood Red)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sticker | Heroic | 2020 RMR
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | Lambda (Wire Blue)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | Cocky (War Pig Pink)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | Popdog (Monarch Blue)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | Rage Mode (Tracer Yellow)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | Popdog (Bazooka Pink)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | Popdog (Jungle Green)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | QQ (Blood Red)
+0.0,0.0,0.0,0.0,0.0,1.0,16,Sticker | gade (Gold) | London 2018
+0.0,0.0,0.0,0.0,0.0,1.0,36,Souvenir Tec-9 | Remote Control (Factory New)
+0.0,0.0,0.0,0.0,0.0,1.0,28,Sticker | coldzera (Gold) | Boston 2018
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | Double (Monster Purple)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | Double (Frog Green)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | GTG (Battle Green)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | GTG (Jungle Green)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | Jump Shot (Tiger Orange)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | King Me (Princess Pink)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | GGEZ (Wire Blue)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | X-Knives (Blood Red)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | Toasted (War Pig Pink)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | Take Flight (Monster Purple)
+0.0,0.0,0.0,0.0,0.0,1.0,672,Sealed Graffiti | Eat It (Cash Green)
+1.6718652606120004e-15,6.893277061304075e-15,7.767410765662676e-18,7.767410765662676e-18,7.731595768607965e-18,0.875,17,Sticker | rain (Gold) | Boston 2018
+1.3263464400855204e-14,1.9415723814517298e-14,5.5086322560617337e-17,5.5086322560617355e-17,7.013907141751904e-17,0.9655172413793104,30,Sticker | chopper (Gold) | London 2018
+2.6893660536296266e-14,5.52942602910116e-14,3.820206076467693e-17,3.820206076467693e-17,4.807822425518619e-17,0.9782608695652174,93,Sticker | s1mple (Gold) | London 2018
+4.346849677591201e-14,4.9708127801023133e-14,9.839443515954168e-17,9.839443515954169e-17,9.839443515954169e-17,0.9375,17,★ Bayonet | Boreal Forest (Factory New)
+8.928571428570843e-06,9.545044354014973e-05,0.0002957873998888968,0.0002926838299312048,0.00029757476565985246,0.9880774962742176,672,Sealed Graffiti | Tombstone (Cash Green)

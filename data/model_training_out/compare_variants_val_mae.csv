@@ -1,0 +1,8 @@
+name,raw,raw_liquipedia,raw_fe_liquipedia,diff_liquipedia,diff_fe_liquipedia,pct_liquipedia,pct_fe_liquipedia
+ensemble_val,5.4775187077958085,4.9803338824736985,5.040880223333674,-0.49718482532211006,-0.4366384844621347,-0.09076825691430285,-0.07971464959867587
+baseline1_val,5.7343757529325465,,,,,,
+baseline2_movavg_val,4.8583992669933656,,,,,,
+mlp_log_val,6.850439345288619,,,,,,
+mlp_raw_val,8.612978555335271,,,,,,
+xgboost_log_val,6.183031167008555,,,,,,
+xgboost_raw_val,6.049288937544764,,,,,,

@@ -1,0 +1,49 @@
+Софтверски зависности:
+
+- Верзија на Python: 3.13.5 (tags/v3.13.5:6cb20a2, Jun 11 2025, 16:15:46) [MSC v.1943 64 bit (AMD64)]
+
+- библиотеки на Python: os, time, Path (pathlib), requests, psycopg2, dateutil, datetime, timezone, timeimport, time, json, re, pandas, BeautifulSoup (bs4), quote (urllib.parse), matplotlib.pyplot, random, monthrange (calendar), RealDictCursor, math, numpy, glob, SimpleImputer (sklearn), StandardScaler (sklearn), mean_absolute_error,mean_squared_error (sklearn), joblib, torch, DataLoader (torch), TensorDataset (torch), copy
+
+- верзија на PostgreSQL: PostgreSQL 17.5 on x86_64-windows, compiled by msvc-19.44.35209, 64-bit
+изкористени хардверски компоненти:
+
+- CPU: Intel i5 8300H 2.3GHz 8 CPUs
+- GPU: Nvidea GTX 1050 4 GB
+- 32 GB RAM (системот е тестиран на 8 GB рам меморија и не е успешно тренирањето на моделите, на 32 GB рам успешно е за нивната архитектура)
+
+Сегментите од системот потребно е да се извршат секвенционално, преку наведените инструкции:
+
+0. Потребно е да се направи дата база на PostgreSQL системот, именувана "steam". Потребно е да се направи табела во дата базата за чување на податоците од Steam, именувана "market_prices", за овој чекор искористете ја sql датотеката create_market_prices.sql, во фолдерот scripts. Поврзувањето со дата базата е направено преку psycopg2 библиотеката директно во Python скриптите. Доколку се користи друга дата база на PostgreSQL потребно е да се променат параметрите dbname, user, password, host, port соодветно во секоја скрипта во која се воспоставува конекција со дата базата. 
+
+1. Потребно е да се изврши скриптата fetch_all_items.py (сите скрипти се наоѓаат во фолдерот scripts)
+
+2. Потребно е да се изврши скриптата backfill_history.py
+
+2.1. Пред да се изврши скриптата потребно е да се направи environment променлива на оперативниот систем (setx STEAM_LOGIN_SECURE="token_here" за Windows или export STEAM_LOGIN_SECURE="your_token_here" за Linux). Токенот е сместен во steamLoginSecure cookie на веб сајтот https://steamcommunity.com/market/, по претходна најава со профил. Направен е профил стриктно наменет за истражувачките цели на ова теза, steam_price_research_bot. Преку овој профил е превземен автентикациискиот токен за пристап до endpoint-ите на Steam. За реплицирање на креирање на профил следат чекорите:
+
+Влезете на Steam registration веб сајтот (https://store.steampowered.com/join)
+Креирајте нов профил со:
+email
+password
+Направете најава преку пребарувач.
+
+2.2 Скриптата користи checkpoint функционалност и може безбедно да се направи излез и влез на извршувањето. При нов влез во извршување најбезбедно е да се постави нова STEAM_LOGIN_SECURE променлива со нов токен.
+
+3. Потребно е да се изврши скриптата item_dim.py 
+
+3.1. Потребно е да се следат инструкциите наведени под 2.1 пред извршување на скриптата.
+
+4. Потребно е да се изврши скриптата build_subset.py
+
+5. Потребно е да се изврши скриптата build_features_no_cat.py
+
+6. Потребно е да се изврши скриптата cs_news_scraper.py
+
+7. Потребно е да се изврши скриптата liquipedia_events_scraper.py
+
+8. Потребно е да се извршат скриптите merge_raw_ext.py и merge_raw_fe_ext.py (независно од редоследот)
+
+9. Потребно е да се изврши скриптата train_models.py
+
+*За анализирање на податоците потребно е да се извршат скриптитe: analysis_and_visualization.py и analyze_training_out.py
+*Патеките за резултантните датотеки потребно е соодветно да се променат и прилагодат на системот на кој се репродуцира проектот.
